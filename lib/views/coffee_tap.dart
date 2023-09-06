@@ -1,13 +1,10 @@
-// import 'package:coffee_app/constanse.dart';
-// import 'package:coffee_app/constanse.dart';
+
 import 'package:coffee_app/models/coffee_card_model.dart';
 import 'package:coffee_app/views/details_page.dart';
 import 'package:coffee_app/widgets/coffee_card_scroll.dart';
 import 'package:coffee_app/widgets/coffee_item_scroll.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-// import 'package:flutter_iconly/flutter_iconly.dart';
-// import 'package:google_fonts/google_fonts.dart';
 
 class CoffeeTap extends StatelessWidget {
   const CoffeeTap({super.key});
